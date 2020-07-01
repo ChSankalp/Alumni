@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497543391822",
+    "firebase_url": "https://in-touch-32e58.firebaseio.com",
+    "project_id": "in-touch-32e58",
+    "storage_bucket": "in-touch-32e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497543391822:android:0403c6c0869c102b",
+        "android_client_info": {
+          "package_name": "com.alumni.my.eg.alumni_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497543391822-vvdtl8s0b8m4ued7ofn11jqukunb2kti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkISdYEsjHef0GL55nkqhIww5tZ8tfnZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497543391822-vvdtl8s0b8m4ued7ofn11jqukunb2kti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
